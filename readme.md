@@ -9,8 +9,8 @@ Héberger le site du projet OpenWeatherMap.
 1j
 
 ### Compétences couvertes
-T1 - Actualiser et partager ses compétences en développement informatique
-C9 - Utiliser l’anglais dans son activité professionnelle en informatique 
+* T1 - Actualiser et partager ses compétences en développement informatique
+* C9 - Utiliser l’anglais dans son activité professionnelle en informatique 
 
 ### Critères d’évaluation
 - L’objet de la recherche est identifié
